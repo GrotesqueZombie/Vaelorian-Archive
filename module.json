@@ -11,7 +11,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "custom-system-builder",
+        "id": "custom-system-builder-beta",
         "type": "system",
         "compatibility": {}
       }
