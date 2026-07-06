@@ -5,6 +5,7 @@ Now updated for Gravebound! </br>
 Currently working on adding:
 - Quickstart</br>
 - Book of Masteries</br>
+- Warren of the Ratkin</br>
 - The Vaelorian Codex (Upon Release)</br>
 - Book of Horrors (Upon Release)
 -----
