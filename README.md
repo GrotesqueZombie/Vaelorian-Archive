@@ -1,6 +1,6 @@
 This module aims to help new players quickly engage with Ker Nethalas and Carnage & Aether almost right from the start on Foundry VTT. Thanks, Alex T, for the amazing games and for letting me upload these!
 
-Now compatible with V13 and combined with KerNethalasCSB! Thank you, Forelius, for allowing me to include your original code and templates!
+Now compatible with V14 and combined with KerNethalasCSB! Thank you, Forelius, for allowing me to include your original code and templates!
 -----
 ![image](https://github.com/user-attachments/assets/9288dd49-210d-4ffb-8fb1-d78a9f508231)
 - An updated KN Character Sheet (Fixes and now has a slot for shield/integrity): Listed as "_Character.2"
