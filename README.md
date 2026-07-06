@@ -5,7 +5,7 @@ Now updated for Gravebound! </br>
 Currently working on adding:
 - Quickstart</br>
 - Book of Masteries</br>
-- The Vawlorian Codex (Upon Release)</br>
+- The Vaelorian Codex (Upon Release)</br>
 - Book of Horrors (Upon Release)
 -----
 ![image](https://github.com/user-attachments/assets/9288dd49-210d-4ffb-8fb1-d78a9f508231)
