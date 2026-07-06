@@ -7,7 +7,7 @@ Now compatible with V14 and combined with KerNethalasCSB! Thank you, Forelius, f
 - New Mastery Template for Book of Masteries
 - KN Opponents and Overseers (Including enemies from The Valorian Codices)
 - KN Items and Relics
-- I have included all my roll tables, including a couple from The Valorian Codices:<br/>
+- I have included all my roll tables, including a couple from The Valorian Codices (Soon updated for Gravebound):<br/>
 • Commoner Backstory roll table<br/>
 • Checking For Doors (Is it trapped?/Is it locked?)<br/>
 • Creature Defense Moves/Creature Fumbles<br/>
