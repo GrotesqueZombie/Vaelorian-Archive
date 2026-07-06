@@ -1,9 +1,9 @@
 {
   "id": "vaelorian-archive",
   "title": "Vaelorian Archive",
-  "version": "2.1.0",
+  "version": "3.1.0",
   "manifest": "https://github.com/GrotesqueZombie/Grotesque-Compendiums/releases/latest/download/module.json",
-  "download": "https://github.com/GrotesqueZombie/Grotesque-Compendiums/releases/download/2.1.0/module.zip",
+  "download": "https://github.com/GrotesqueZombie/Grotesque-Compendiums/releases/download/3.1.0/module.zip",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -11,7 +11,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "custom-system-builder-beta",
+        "id": "custom-system-builder",
         "type": "system",
         "compatibility": {}
       }
@@ -43,7 +43,7 @@
       "label": "CA Actors & Templates",
       "path": "packs/ca-actors-and-templates",
       "type": "Actor",
-      "system": "custom-system-builder-beta",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -54,7 +54,7 @@
       "label": "1e Actors & Templates",
       "path": "packs/kn-actors-and-templates",
       "type": "Actor",
-      "system": "custom-system-builder-beta",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -65,7 +65,7 @@
       "label": "1e Armoury",
       "path": "packs/kn-armoury",
       "type": "Item",
-      "system": "custom-system-builder-beta",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -76,7 +76,7 @@
       "label": "CA Macros",
       "path": "packs/ca-macros",
       "type": "Macro",
-      "system": "custom-system-builder-beta",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -87,7 +87,7 @@
       "label": "CA Roll Tables",
       "path": "packs/ca-roll-tables",
       "type": "RollTable",
-      "system": "custom-system-builder-beta",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -98,7 +98,7 @@
       "label": "1e Roll Tables",
       "path": "packs/kn-roll-tables",
       "type": "RollTable",
-      "system": "custom-system-builder-beta",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -109,7 +109,7 @@
       "label": "1e Macros",
       "path": "packs/kn-macros",
       "type": "Macro",
-      "system": "custom-system-builder-beta",
+      "system": "custom-system-builder",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -124,7 +124,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "custom-system-builder-beta"
+      "system": "custom-system-builder"
     },
     {
       "name": "Gravebound-Armory",
@@ -135,7 +135,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "custom-system-builder-beta"
+      "system": "custom-system-builder"
     },
     {
       "name": "Gravebound-Rolltables",
@@ -146,7 +146,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "custom-system-builder-beta"
+      "system": "custom-system-builder"
     },
     {
       "name": "Gravebound-Macros",
@@ -157,7 +157,7 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "custom-system-builder-beta"
+      "system": "custom-system-builder"
     }
   ],
   "flags": {}
